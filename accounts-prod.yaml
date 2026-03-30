@@ -8,7 +8,7 @@ accounts:
   message: "Welcome to EazyBank accounts related to prod local APIs"
   contactDetails:
     name: "Radhakrishnan Pillay - PROD Owner"
-    email: "{cipher}4db5daa7d505dda05708be624d68bc95301bedde98843b1e06ab360c501b5607b3145c3196bb4c77078657d3c872f240"
+    email: "{cipher}c6d987064ea0774795b9dd0433b0860d6759d6f11e35cae4cff8225cd180f53af24bec1b5cad2cbc294e9743097d3658"
   onCallSupport:
     - (777) 555-1234
     - (777) 523-1234
