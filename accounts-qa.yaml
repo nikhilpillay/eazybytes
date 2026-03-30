@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related to QA local APIs"
+  contactDetails:
+    name: "Harsh Pillay - QA Lead"
+    email: "harshpillay27@gmail.com"
+  onCallSupport:
+    - (666) 555-1234
+    - (666) 523-1234
