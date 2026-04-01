@@ -5,7 +5,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related to production local APIs"
+  message: "EazyBank welcomes you to the accounts related to production local APIs"
   contactDetails:
     name: "Radhakrishnan Pillay - PROD Owner"
     email: "{cipher}c6d987064ea0774795b9dd0433b0860d6759d6f11e35cae4cff8225cd180f53af24bec1b5cad2cbc294e9743097d3658"
